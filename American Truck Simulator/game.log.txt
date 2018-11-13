@@ -1,0 +1,231 @@
+************ : log created on : Wednesday October 17 2018 @ 20:44:20
+00:00:00.000 : [sys] running on x86_64 / Windows 10 x64 (version 10.0)
+00:00:00.000 : [sys] DirectX version : 4.09.00.0904
+00:00:00.000 : [sys] Command line:  C:\Users\STUDENT\Desktop\American Truck Simulator\bin\win_x64\amtrucks.exe
+00:00:00.000 : [cpu] CPU0: GenuineIntel [        Intel(R) Pentium(R) CPU G2020 @ 2.90GHz] with 2 cores (2 threads) at ~2893MHz.
+00:00:00.000 : [sys] using 1 worker thread(s)
+00:00:00.000 : [sys] and 3 worker threads for IO.
+00:00:00.000 : [sys] plus 1 real-time worker threads.
+00:00:00.000 : [sys] using QPC / TSC invariant timer, frequency 2825629Hz
+00:00:00.001 : [mem] physical total: 3998M
+00:00:00.001 : [mem] physical avail: 1614M
+00:00:00.001 : [mem] virtual total: 134217727M
+00:00:00.001 : [mem] virtual avail: 134217147M
+00:00:00.001 : [mem] Trying to allocate memory pool (409600K)
+00:00:00.003 : [mem] Allocated 5 temporary loading buffer(s)
+00:00:00.194 : [xinput] Using XInput version 1.4.0
+00:00:00.210 : [hashfs] effect.scs: Mounted, 9520 entries
+00:00:00.257 : [hashfs] base.scs: Mounted and validated, 20126 entries (6CB679FE5CA53742A5C6C23E48E5AB9995042DA86BBB31F816D3A6FF5BDEC31)
+00:00:00.257 : [hashfs] core.scs: Mounted and validated, 6 entries (7E18634B77172C8A69754F668962AAD822DCD8D51EDA7BF88B843244CC0F92B)
+00:00:00.340 : [hashfs] def.scs: Mounted and validated, 2412 entries (11B35A37771A38D5D008D587C89317A8CC192CF11781EA8EFEBFAC0C8408814)
+00:00:00.434 : [hashfs] locale.scs: Mounted and validated, 176 entries (FCEED20FAB489E6BAB3C5DD35C3C73358A9D764CD68D79BBC8D11B98F3A0DB3)
+00:00:00.435 : [hashfs] base_cfg.scs: Mounted and validated, 1 entries (95C6CED671DBFDD8D0900240B20CE85614142D55635B0ADD5CD70977AB900C8)
+00:00:00.435 : [ufs] Home directory: 'C:/Users/STUDENT/Documents/American Truck Simulator'.
+00:00:01.027 : [hashfs] dlc_arizona.scs: Mounted and validated, 672 entries (2FB5244053049266BDD5E0C96B43939F15C2213FBFF956EC0FB7C7448615699)
+00:00:01.027 : [hashfs] dlc_arizona.scs: Unmounted.
+00:00:01.030 : [hashfs] dlc_christmas.scs: Mounted and validated, 160 entries (5B4DF8BA4D842B12932BB8CCF2B6E0A0A64D49B1689B67947046BBB4B338C54)
+00:00:01.030 : [hashfs] dlc_christmas.scs: Unmounted.
+00:00:01.033 : [hashfs] dlc_halloween.scs: Mounted and validated, 146 entries (0FAA6D34DEEFA337282C3FBDC79AA140302DFF1050CCECF5E016005E506A02B)
+00:00:01.033 : [hashfs] dlc_halloween.scs: Unmounted.
+00:00:01.541 : [hashfs] dlc_heavy_cargo.scs: Mounted and validated, 476 entries (A992A50FC46EB104245646D1F2779D3E7BCABA266E60B3C49D33BBCAC6DAC03)
+00:00:01.541 : [hashfs] dlc_heavy_cargo.scs: Unmounted.
+00:00:01.969 : [hashfs] dlc_kenworth_t680.scs: Mounted and validated, 1001 entries (FFDD301514CBF3A1B42A441A1E84121153129B5F4213B5453E323762D1E0D3E)
+00:00:01.969 : [hashfs] dlc_kenworth_t680.scs: Unmounted.
+00:00:02.532 : [hashfs] dlc_kenworth_w900.scs: Mounted and validated, 964 entries (3237991239044CF8A075390CF0529AA6BAFF443CCAA60D82A9DE34D73841FF7)
+00:00:02.532 : [hashfs] dlc_kenworth_w900.scs: Unmounted.
+00:00:03.302 : [hashfs] dlc_nevada.scs: Mounted and validated, 636 entries (16C60F3629155D674228C38B50ACE09897ABA30B62B08E675A4296C32CAB7C1)
+00:00:03.303 : [hashfs] dlc_nevada.scs: Unmounted.
+00:00:04.128 : [hashfs] dlc_peterbilt_389.scs: Mounted and validated, 1291 entries (823C84AABD1AA9B7FB4BCC1A435949CD0AECD28D033069C609ABB6CB09F77DC)
+00:00:04.128 : [hashfs] dlc_peterbilt_389.scs: Unmounted.
+00:00:04.581 : [hashfs] dlc_peterbilt_579.scs: Mounted and validated, 999 entries (80CDF50201603B8AF29B7AB46F0D9E29D991021C03D6165D16EFF4E98EB0BA4)
+00:00:04.582 : [hashfs] dlc_peterbilt_579.scs: Unmounted.
+00:00:04.816 : [hashfs] dlc_rims.scs: Mounted and validated, 597 entries (5294DBA43EA0A200D64C05D4E5950368B9AABC36BA8DE7088C7ECC57A11E512)
+00:00:04.816 : [hashfs] dlc_rims.scs: Unmounted.
+00:00:04.898 : [hashfs] dlc_sci_st_wheels.scs: Mounted and validated, 435 entries (30DDACD8EA1A1353FDC0C4237014167B9AA3BF75A228112DB28FB7BE821E769)
+00:00:04.898 : [hashfs] dlc_sci_st_wheels.scs: Unmounted.
+00:00:04.900 : [hashfs] dlc_steampunk.scs: Mounted and validated, 61 entries (F1AC722D6A6197776B9F280D3D5FA2CDCCACC87E5214848985330CD5E7839B2)
+00:00:04.900 : [hashfs] dlc_steampunk.scs: Unmounted.
+00:00:04.926 : [hashfs] dlc_valentine.scs: Mounted and validated, 222 entries (82D5989A19730B042CC6ED52232BF5B4A316591B960F36B37A59A7168D35330)
+00:00:04.927 : [hashfs] dlc_valentine.scs: Unmounted.
+00:00:04.945 : [mod_package_manager] Requesting Steam Workshop content..
+00:00:04.945 : <ERROR> [mod_package_manager] Unable to query subscribed mods list!
+00:00:04.958 : exec /home/config.cfg
+00:00:04.959 : [sys] Failed to execute (/home/config.cfg), the file does not exist.
+00:00:04.981 : [lang] Language autodetection: 409
+00:00:05.017 : Selected language: en_us
+00:00:05.017 : American Truck Simulator init ver.1.28.1.2s (rev. d6893b8f540b)
+00:00:05.033 : [net]  LOG INFO: Started
+00:00:05.109 : Setting UI reference mode to: 1440x900...
+00:00:05.152 : [gfx] Selected rendering device: dx9
+00:00:05.324 : [dx9] NVAPI not detected. (-2)
+00:00:05.324 : [dx9] Direct3D9Ex detected.
+00:00:05.331 : [dx9] Number of adapters found: 1
+00:00:05.400 : [dx9] Adapter #0: Intel(R) HD Graphics / 32 (2048) MB (igdumdim64.dll, 10.18.10.4252, 20150710)
+00:00:05.400 : [dx9] Using adapter #0.
+00:00:05.405 : [dx9] Using SM3X rendering path
+00:00:05.407 : [gfx] Trying to set 1366x768 32bpp 60Hz (fullscreen)
+00:00:05.517 : [dx9] D3D9 device sucessfully created [HWVP]
+00:00:05.567 : [gfx] Video memory by DXGI: 32MB
+00:00:05.567 : [gfx] Considered entries:
+00:00:05.567 :   Generic <200MB
+00:00:06.035 : [al] device: OpenAL Soft
+00:00:06.035 : [al] context extensions: ALC_ENUMERATE_ALL_EXT ALC_ENUMERATION_EXT ALC_EXT_CAPTURE ALC_EXT_DEDICATED ALC_EXT_disconnect ALC_EXT_EFX ALC_EXT_thread_local_context ALC_SOFT_loopback
+00:00:06.064 : [al] vendor: OpenAL Community
+00:00:06.064 : [al] version: 1.1 ALSOFT 1.14
+00:00:06.064 : [al] renderer: OpenAL Soft
+00:00:06.064 : [al] extensions: AL_EXT_ALAW AL_EXT_DOUBLE AL_EXT_EXPONENT_DISTANCE AL_EXT_FLOAT32 AL_EXT_IMA4 AL_EXT_LINEAR_DISTANCE AL_EXT_MCFORMATS AL_EXT_MULAW AL_EXT_MULAW_MCFORMATS AL_EXT_OFFSET AL_EXT_source_distance_model AL_LOKI_quadriphonic AL_SOFT_buffer_samples AL_SOFT_buffer_sub_data AL_SOFTX_deferred_updates AL_SOFT_direct_channels AL_SOFT_loop_points
+00:00:06.064 : [snd] Started sound update thread
+00:00:06.162 : [di8] Initializing device '@@keyboard@@' as 'keyboard'
+00:00:06.198 : [di8] Initializing device '@@i_mouse@@' as 'mouse'
+00:00:07.752 : dispatch
+00:00:07.752 : exit
+00:00:24.252 : [ui] Controller setup start
+00:00:24.264 : [inp] Classifying devices
+00:00:24.265 : [ui] Controller setup done
+00:00:24.405 : mm_flush_repeatedly
+00:00:24.580 : [hashfs] dlc_arizona.scs: Mounted and validated, 672 entries (2FB5244053049266BDD5E0C96B43939F15C2213FBFF956EC0FB7C7448615699)
+00:00:24.583 : [hashfs] dlc_christmas.scs: Mounted and validated, 160 entries (5B4DF8BA4D842B12932BB8CCF2B6E0A0A64D49B1689B67947046BBB4B338C54)
+00:00:24.586 : [hashfs] dlc_halloween.scs: Mounted and validated, 146 entries (0FAA6D34DEEFA337282C3FBDC79AA140302DFF1050CCECF5E016005E506A02B)
+00:00:24.695 : [hashfs] dlc_heavy_cargo.scs: Mounted and validated, 476 entries (A992A50FC46EB104245646D1F2779D3E7BCABA266E60B3C49D33BBCAC6DAC03)
+00:00:24.803 : [hashfs] dlc_kenworth_t680.scs: Mounted and validated, 1001 entries (FFDD301514CBF3A1B42A441A1E84121153129B5F4213B5453E323762D1E0D3E)
+00:00:24.951 : [hashfs] dlc_kenworth_w900.scs: Mounted and validated, 964 entries (3237991239044CF8A075390CF0529AA6BAFF443CCAA60D82A9DE34D73841FF7)
+00:00:25.138 : [hashfs] dlc_nevada.scs: Mounted and validated, 636 entries (16C60F3629155D674228C38B50ACE09897ABA30B62B08E675A4296C32CAB7C1)
+00:00:25.337 : [hashfs] dlc_peterbilt_389.scs: Mounted and validated, 1291 entries (823C84AABD1AA9B7FB4BCC1A435949CD0AECD28D033069C609ABB6CB09F77DC)
+00:00:25.432 : [hashfs] dlc_peterbilt_579.scs: Mounted and validated, 999 entries (80CDF50201603B8AF29B7AB46F0D9E29D991021C03D6165D16EFF4E98EB0BA4)
+00:00:25.477 : [hashfs] dlc_rims.scs: Mounted and validated, 597 entries (5294DBA43EA0A200D64C05D4E5950368B9AABC36BA8DE7088C7ECC57A11E512)
+00:00:25.499 : [hashfs] dlc_sci_st_wheels.scs: Mounted and validated, 435 entries (30DDACD8EA1A1353FDC0C4237014167B9AA3BF75A228112DB28FB7BE821E769)
+00:00:25.501 : [hashfs] dlc_steampunk.scs: Mounted and validated, 61 entries (F1AC722D6A6197776B9F280D3D5FA2CDCCACC87E5214848985330CD5E7839B2)
+00:00:25.506 : [hashfs] dlc_valentine.scs: Mounted and validated, 222 entries (82D5989A19730B042CC6ED52232BF5B4A316591B960F36B37A59A7168D35330)
+00:00:25.518 : Creating backup of profiles inside '/home/profiles(1.28.1.2s).bak'
+00:00:25.523 : Profile backup complete
+00:00:48.926 : Profile 'STUDENT' created.
+00:00:48.927 : uset s_sfx_enabled "1"
+00:00:48.927 : uset s_music_enabled "1"
+00:00:48.928 : uset s_sfx_volume "1.0"
+00:00:48.928 : uset s_radio_volume "1.0"
+00:00:48.928 : uset s_music_volume "0.8"
+00:00:48.928 : uset s_master_volume "1.0"
+00:00:48.928 : uset s_reverse_stereo "0"
+00:00:48.928 : uset g_force_economy_reset "0"
+00:00:48.928 : uset g_force_load_selector "0"
+00:00:48.928 : uset g_autoload_ignore_autosave "0"
+00:00:48.928 : uset g_start_in_truck "0"
+00:00:48.928 : uset g_input_configured "0"
+00:00:48.928 : uset g_trailer_advanced_coupling "0"
+00:00:48.928 : uset g_parking_difficulty "0"
+00:00:48.928 : uset g_simple_parking_doubles "1"
+00:00:48.928 : uset g_job_distance "1.0"
+00:00:48.928 : uset g_job_distance_limit "-1.0"
+00:00:48.928 : uset g_income_factor "1.0"
+00:00:48.928 : uset g_currency "0"
+00:00:48.928 : uset g_bad_weather_factor "0.07"
+00:00:48.928 : uset g_desktop_rnd "0"
+00:00:48.928 : uset g_truck_analysis_fold "0"
+00:00:48.928 : uset g_desktop_bcg "config"
+00:00:48.928 : uset g_save_idx "1"
+00:00:48.928 : uset g_gps_navigation "3"
+00:00:48.928 : uset g_heavy_cargo_popup "1"
+00:00:48.928 : uset g_adviser_auto_parking "1"
+00:00:48.928 : uset g_adviser_keep_hidden "0"
+00:00:48.928 : uset g_adviser "1"
+00:00:48.928 : uset g_desktop_tutorial "1"
+00:00:48.928 : uset g_tutorial "1"
+00:00:48.928 : uset g_fatigue "1"
+00:00:48.929 : uset g_police "1"
+00:00:48.929 : uset g_subtitles "0"
+00:00:48.929 : uset g_clock_24 "0"
+00:00:48.929 : uset g_hmd_no_3d_background "0"
+00:00:48.929 : uset g_hmd_no_special_menu "0"
+00:00:48.929 : uset g_hmd_reduced_cabin_movement "1"
+00:00:48.929 : uset g_hmd_no_artifical_movement "0"
+00:00:48.929 : uset i_oculus_eye_protrusion "0.09"
+00:00:48.929 : uset i_oculus_eye_height "0.15"
+00:00:48.929 : uset i_hmd_max_prediction "0.1"
+00:00:48.929 : uset i_hmd_min_prediction "0.0"
+00:00:48.929 : uset r_interior "1"
+00:00:48.929 : uset r_steering_wheel "1"
+00:00:48.929 : uset s_interior_volume "1.0"
+00:00:48.929 : uset s_wheel_noise "1.0"
+00:00:48.929 : uset s_air_noise "1.0"
+00:00:48.929 : uset s_rumble_enabled "1"
+00:00:48.929 : uset s_reverse_enabled "1"
+00:00:48.929 : uset g_toy_physics "1"
+00:00:48.929 : uset g_cam_blinker "0"
+00:00:48.929 : uset g_cam_physics_value "1.0"
+00:00:48.929 : uset g_cam_physics "1"
+00:00:48.929 : uset g_cam_steering_reverse "1.0"
+00:00:48.929 : uset g_cam_steering_value "1.0"
+00:00:48.929 : uset g_cam_steering "0"
+00:00:48.929 : uset g_blinker_auto_off "1"
+00:00:48.929 : uset g_cruise_control_smart "5.0"
+00:00:48.929 : uset g_cruise_control_grid "5.0"
+00:00:48.930 : uset g_adaptive_shift "0.0"
+00:00:48.930 : uset g_pedal_clutch_range "1.0"
+00:00:48.930 : uset g_fuel_simulation "0"
+00:00:48.930 : uset g_hardcore_simulation "0"
+00:00:48.930 : uset g_reg_setting "reg_setting.usa"
+00:00:48.930 : uset g_brake_light_all "0"
+00:00:48.930 : uset g_use_speed_limiter "0"
+00:00:48.930 : uset g_hud_speed_warning "0"
+00:00:48.930 : uset g_hud_speed_limit "1"
+00:00:48.930 : uset g_axle_drop_auto "1"
+00:00:48.930 : uset g_engine_start_auto "1"
+00:00:48.930 : uset g_motor_brake_auto "0"
+00:00:48.930 : uset g_retarder_auto "0"
+00:00:48.930 : uset g_trailer_stability "0.5"
+00:00:48.930 : uset g_brake_intensity "1.0"
+00:00:48.930 : uset g_steer_autocenter "1"
+00:00:48.930 : uset g_mpg "0"
+00:00:48.930 : uset g_gallon "1"
+00:00:48.930 : uset g_fahrenheit "1"
+00:00:48.930 : uset g_pounds "lb_only"
+00:00:48.930 : uset g_mph "1"
+00:00:48.930 : uset g_hshifter_synchronized "1"
+00:00:48.930 : uset g_hshifter_split "3"
+00:00:48.930 : uset g_hshifter_layout_shifting "1"
+00:00:48.930 : uset g_hshifter_layout "splitter"
+00:00:48.930 : uset g_trans "0"
+00:00:48.930 : uset g_lang_set "1"
+00:00:48.930 : uset g_lang "en_us"
+00:00:48.930 : uset g_cutscenes "1"
+00:00:49.865 : [inp] Initial evaluation
+00:00:49.865 : [inp] Classifying devices
+00:00:49.865 : [inp] Applying input.clutch.default
+00:00:49.865 : [inp] Applying input.look.default
+00:00:49.866 : [inp] Applying input.gearbox.updown.default
+00:00:49.866 : [inp] Applying input.gearbox.drive.default
+00:00:49.866 : [inp] Applying input.gearbox.hshifter.default
+00:00:49.866 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:49.866 : [inp] No steering axis found, fallback selection
+00:00:49.866 : [inp] Trying to find a valid combination
+00:00:49.866 : [inp] No combination found.
+00:00:49.867 : [inp] Applying input.steer.default
+00:00:49.867 : [inp] Applying input.pedals.default
+00:00:49.867 : [inp] Applying input.clutch.default
+00:00:49.867 : [inp] Applying input.look.default
+00:00:49.867 : [inp] Applying input.gearbox.updown.default
+00:00:49.867 : [inp] Applying input.gearbox.drive.default
+00:00:49.867 : [inp] Applying input.gearbox.hshifter.default
+00:00:49.868 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:55.683 : quit
+00:00:55.687 : [hashfs] dlc_arizona.scs: Unmounted.
+00:00:55.687 : [hashfs] dlc_valentine.scs: Unmounted.
+00:00:55.687 : [hashfs] dlc_steampunk.scs: Unmounted.
+00:00:55.687 : [hashfs] dlc_sci_st_wheels.scs: Unmounted.
+00:00:55.687 : [hashfs] dlc_rims.scs: Unmounted.
+00:00:55.687 : [hashfs] dlc_peterbilt_579.scs: Unmounted.
+00:00:55.687 : [hashfs] dlc_peterbilt_389.scs: Unmounted.
+00:00:55.688 : [hashfs] dlc_nevada.scs: Unmounted.
+00:00:55.688 : [hashfs] dlc_kenworth_w900.scs: Unmounted.
+00:00:55.688 : [hashfs] dlc_kenworth_t680.scs: Unmounted.
+00:00:55.688 : [hashfs] dlc_heavy_cargo.scs: Unmounted.
+00:00:55.688 : [hashfs] dlc_halloween.scs: Unmounted.
+00:00:55.688 : [hashfs] dlc_christmas.scs: Unmounted.
+00:00:55.899 : [net]  LOG INFO: Stopped
+00:00:55.944 : [hashfs] core.scs: Unmounted.
+00:00:55.944 : [hashfs] def.scs: Unmounted.
+00:00:55.944 : [hashfs] locale.scs: Unmounted.
+00:00:55.944 : [hashfs] base_cfg.scs: Unmounted.
+00:00:55.944 : [hashfs] base.scs: Unmounted.
+00:00:55.944 : [hashfs] effect.scs: Unmounted.
+00:00:56.004 : [sys] Process manager shutdown.

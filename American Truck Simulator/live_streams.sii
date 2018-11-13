@@ -1,0 +1,16 @@
+SiiNunit
+{
+#
+# Stream data format: "URL of the live stream | Name for the radio as listed in Radio screen | Genre | Language | Bitrate"
+#
+# !!! WARNING !!!  mms streams are not supported!
+#
+# remove the leading '#' character on the "stream_data[]" line below and enter
+# a correct URL of the stream to have the Internet radio offered in the Radio screen
+# you can enter multiple lines in the same format, each defining additional radios
+#
+
+live_stream_def : .live_streams {
+# stream_data[]: "URL of mp3 live stream|Radio name|Genre|Language|Bitrate"
+}
+}
